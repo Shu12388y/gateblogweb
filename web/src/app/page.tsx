@@ -1,5 +1,5 @@
 import HeroSection from "@/components/HeroSection";
-import FeaturedBlogs from "@/components/FeaturedBlogs";
+// import FeaturedBlogs from "@/components/FeaturedBlogs";
 import CategorySection from "@/components/CategorySection";
 import UpdatesTicker from "@/components/UpdatesTicker";
 import AboutSection from "@/components/AboutSection";

@@ -129,7 +129,7 @@ const Newsletter = () => {
         
         {/* Social Proof */}
         <div className="mt-8 text-blue-200 text-sm">
-          <p>⭐⭐⭐⭐⭐ "Best resource for GATE preparation!" - Rahul, IIT Delhi</p>
+          <p>⭐⭐⭐⭐⭐ &quot;Best resource for GATE preparation!&quot; - Rahul, IIT Delhi</p>
         </div>
       </div>
     </div>

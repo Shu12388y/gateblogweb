@@ -92,7 +92,7 @@ const CategorySection = () => {
             Explore by Category
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-            Find exactly what you're looking for with our expertly organized content categories designed for your success
+            Find exactly what you&apso;re looking for with our expertly organized content categories designed for your success
           </p>
         </div>
 
